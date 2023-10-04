@@ -1,0 +1,2 @@
+1. Setting up a cloud Ubuntu instance over AWS LightSail.
+2. Using a GUI for the cloud Instance.
