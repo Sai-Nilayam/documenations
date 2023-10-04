@@ -1,0 +1,2 @@
+This file holds all the internal information regarding this project.
+This supposed to inform regarding the project for the developers working on it. 
